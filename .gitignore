@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# générés
+data/
+ckpt/
+samples/
+resultats_eval/
+*.pt
+
+# article (disponible sur arXiv)
+*.pdf
